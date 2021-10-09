@@ -1,0 +1,239 @@
+C:\Users\Quan\Desktop\qlhv\qlhv\bin\Debug\qlhv.exe.config
+C:\Users\Quan\Desktop\qlhv\qlhv\bin\Debug\qlhv.exe
+C:\Users\Quan\Desktop\qlhv\qlhv\bin\Debug\qlhv.pdb
+C:\Users\Quan\Desktop\qlhv\qlhv\obj\Debug\qlhv.csprojAssemblyReference.cache
+C:\Users\Quan\Desktop\qlhv\qlhv\obj\Debug\qlhv.login.resources
+C:\Users\Quan\Desktop\qlhv\qlhv\obj\Debug\qlhv.Properties.Resources.resources
+C:\Users\Quan\Desktop\qlhv\qlhv\obj\Debug\qlhv.csproj.GenerateResource.cache
+C:\Users\Quan\Desktop\qlhv\qlhv\obj\Debug\qlhv.csproj.CoreCompileInputs.cache
+C:\Users\Quan\Desktop\qlhv\qlhv\obj\Debug\qlhv.exe
+C:\Users\Quan\Desktop\qlhv\qlhv\obj\Debug\qlhv.pdb
+C:\Users\Quan\Desktop\qlhv\qlhv\obj\Debug\qlhv.frmSystem.resources
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\qlhv.exe.config
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\qlhv.exe
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\qlhv.pdb
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.frmSystem.resources
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.Properties.Resources.resources
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.csproj.GenerateResource.cache
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.csproj.CoreCompileInputs.cache
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.exe
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.pdb
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.csproj.CopyComplete
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.background.resources
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.loginn.resources
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmchinhsuathongtin.resources
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmquanlytaikhoan.resources
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmcapnhatthongtin.resources
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmgiaovien.resources
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmlop.resources
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmquanlyhocvien.resources
+C:\Users\Quan\Desktop\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmtrang.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.csproj.AssemblyReference.cache
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.background.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmbchvtheothang.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmchinhsuathongtin.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmcapnhatthongtin.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmdiemhv.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmdoimatkhau.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmgiaovien.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmhocphi.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmlop.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmquanlyhocvien.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmthongkenohocvien.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmtiepnhanhocvien.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmquanlytaikhoan.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.form.frmtrang.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.frmSystem.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.loginn.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.pages.frmgiaovienadd.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.pages.frmgiaovienedit.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.pages.frmlophocadd.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.pages.frmlophocedit.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.Properties.Resources.resources
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.csproj.GenerateResource.cache
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.csproj.CoreCompileInputs.cache
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.exe
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.pdb
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\rptbchv.rdlc
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\qlhv.exe.config
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\qlhv.exe
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\qlhv.pdb
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\EnvDTE.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\stdole.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quan\Desktop\more\nam 3-1\báo cáo cnpm\qlhv\qlhv\obj\Debug\qlhv.csproj.CopyComplete
